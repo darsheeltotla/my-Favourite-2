@@ -1,0 +1,91 @@
+img{
+    border-style: solid;
+    border-color: gold;
+    border-radius: 100px;
+    border-width: 20px;
+}
+
+#Start,#about,#inspiration{
+    background-image: linear-gradient(#00fff7 0%, #ff0000 100%);
+    height: 100%;
+    
+    
+}
+
+.line{
+    background-color: blue;
+    height: 10px;
+    width: 700px;
+    margin: 8px auto;
+    
+}
+
+body{
+    margin: 0;
+    padding-top: 0px;
+    text-align: center;
+    background-color: lightskyblue;
+    color: yellow;
+   
+}
+
+.musti,.musti2,.musti3{
+    border-style: solid;
+    border-color: gold;
+    border-radius: 100px;
+    border-width: 20px;
+    width: 700px;
+    height: 600px;
+}
+
+#MYFD{
+    height: 100%;
+    background-image: linear-gradient(#00fff7 0%, #ff0000 100%);
+}
+
+.menu{
+list-style: none;
+    font-family: fantasy;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    font-size: 30px;  
+}
+
+.link{
+    float: left;
+    color: red;
+    padding-top: 5px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+}
+
+.link:hover{
+     background-image: url(ok.jfif);
+    font-family: 'Qahiri', sans-serif;
+    font-size: 34px;
+    color: white;
+    border-style: solid;
+        border-left-color: mediumpurple;
+    border-top-color: blue;
+    border-right-color: coral;
+    border-bottom-color: deeppink;
+    border-radius: 400px;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
